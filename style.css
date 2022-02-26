@@ -1,0 +1,32 @@
+#main{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  background-color: grey;
+}
+
+#img-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80vw;
+  background-color: white;
+}
+
+#image{
+  width: 60vw;
+  float: inline-end;
+  max-width: 100%;
+}
+
+#tribute-info{
+  width: 50vw;
+}
+
+li{
+  font-size: 20px;
+  line-height: 150%;
+}
+
+
